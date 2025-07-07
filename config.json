@@ -1,0 +1,9 @@
+{
+    "token_name": "BTCBULL",
+    "contract_address": "0xc3f822e94c321dd3ee53ca46b78098ea79b7ec8d",
+    "sell_threshold": 1.5,
+    "min_profit_usd": 30,
+    "slippage": 5,
+    "rpc_url": "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
+    "private_key": "YOUR_PRIVATE_KEY"
+}
